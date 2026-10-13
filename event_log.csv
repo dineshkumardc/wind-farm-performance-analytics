@@ -1,0 +1,5 @@
+event_id,turbine_id,start_time,end_time,event_type,fault_code,description
+E001,T02,2026-09-03 08:00:00,2026-09-03 11:00:00,Unplanned fault,GBX_TEMP_HIGH,Gearbox temperature alarm; inspect before assigning root cause
+E002,T02,2026-09-04 08:00:00,2026-09-04 11:00:00,Unplanned fault,GBX_TEMP_HIGH,Repeat gearbox temperature alarm
+E003,T04,2026-09-06 16:00:00,2026-09-07 18:00:00,Curtailment,,Output limited; reason requires confirmation from grid/operations log
+E004,T05,2026-09-08 01:00:00,2026-09-08 05:00:00,Planned maintenance,PLANNED_MAINT,Planned maintenance window

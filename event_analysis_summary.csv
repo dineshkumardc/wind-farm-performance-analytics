@@ -1,0 +1,5 @@
+event_id,turbine_id,event_type,start_time,end_time,scada_rows_during_event,valid_power_readings,avg_actual_power_kw,status_counts,interpretation_note
+E001,T02,Unplanned fault,2026-09-03 08:00:00,2026-09-03 11:00:00,3,3,0.0,{'Fault': 3},Descriptive only; not proof of causation
+E002,T02,Unplanned fault,2026-09-04 08:00:00,2026-09-04 11:00:00,3,3,0.0,{'Fault': 3},Descriptive only; not proof of causation
+E003,T04,Curtailment,2026-09-06 16:00:00,2026-09-07 18:00:00,26,26,409.96,"{'Running': 21, 'Curtailed': 5}",Descriptive only; not proof of causation
+E004,T05,Planned maintenance,2026-09-08 01:00:00,2026-09-08 05:00:00,4,4,0.0,{'Maintenance': 4},Descriptive only; not proof of causation

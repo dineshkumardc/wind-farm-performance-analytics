@@ -1,0 +1,7 @@
+turbine_id,total_records,valid_power_readings,missing_power_readings,average_actual_power_kw,actual_energy_kwh,expected_energy_kwh,estimated_gap_kwh,weighted_gap_pct
+T01,240,238,2,372.4,88630.7,93333.0,4265.9,4.57
+T02,240,239,1,338.11,80809.0,88404.0,7004.7,7.92
+T03,240,239,1,415.99,99422.4,103885.8,3880.6,3.74
+T04,240,239,1,391.63,93600.6,99337.4,4632.5,4.66
+T05,240,238,2,361.73,86092.7,93373.7,6564.7,7.03
+T06,240,239,1,449.12,107339.3,112634.9,4763.0,4.23
