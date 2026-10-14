@@ -3,8 +3,6 @@
 ## Purpose
 A simulated wind farm dataset for practicing Python, R, statistics, time-series analysis, SCADA concepts, and operational KPI reporting.
 
-**Important:** This dataset is synthetic and does not represent Nordex operational data, turbine specifications, or actual performance.
-
 ## Files
 - `wind_turbine_scada.csv` — hourly readings for six fictional turbines over ten days, with a few missing readings and one duplicate key.
 - `event_log.csv` — sample fault, curtailment, and planned-maintenance events.
