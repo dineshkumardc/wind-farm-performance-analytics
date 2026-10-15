@@ -85,7 +85,6 @@ Power output before, during, and after each event was compared descriptively. Th
 - Power BI: KPI cards, turbine comparison charts, status analysis, and DAX measures.
 
 ### Limitations and Next Steps
-- The dataset is simulated and does not contain real Nordex operational data.
 - The expected-power calculation uses a simplified illustrative curve, not a certified turbine power curve.
 - Missing readings require investigation before estimating their impact.
 - A production analysis would require verified SCADA data, turbine specifications, operating conditions, alarm history, and an agreed energy-loss methodology.
